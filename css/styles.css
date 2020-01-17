@@ -1,0 +1,93 @@
+/**************TAG SELECTORS**************/
+body{
+  font-family: "Montserrat";
+}
+
+h1{
+  font-family: "Montserrat";
+ font-weight: 1000;
+  font-size: 3rem;
+  line-height: 1.5;
+  padding-bottom: 50px;
+}
+h3{
+  font-family: "Montserrat";
+  font-weight:700;
+  font-size: 1.5rem;
+  color: "Black";
+}
+
+a{
+  margin-right: 30px;
+}
+
+
+
+
+
+/**************CLASS SELECTORS**************/
+.container-fluid{
+  padding: 3% 15%;
+}
+
+.navbar{
+  padding:0 0 5rem;
+}
+
+.title-pic{
+  position: relative;
+transform: rotateZ(20deg);
+
+}
+.title-img{
+    width: 50%;
+    margin-left:110px;
+    margin-top: 0px
+}
+
+.navbar-brand{
+  font-family: "Ubuntu";
+}
+.download-btn{
+  margin: 5% 3% 5% 0 ;
+}
+
+
+/************** FEATURES *************/
+
+.featurep{
+color: #8f8f8f;
+}
+.featureicon{
+  color: #ef9172;
+  margin-bottom: 1rem;
+}
+.featureicon:hover{
+  color: #ff4c68;
+}
+
+.feature-box{
+  text-align: center;
+  padding: 2% 15%;
+}
+
+#features{
+  padding: 7% 15%;
+}
+
+
+
+
+
+
+
+/**************ID SELECTORS**************/
+
+#title{
+  background-color: #ff4c68;
+  color: White;
+}
+#brand-id{
+  font-size: 2rem;
+  font-weight:normal ;
+}
