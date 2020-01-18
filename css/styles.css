@@ -6,7 +6,7 @@ body{
 h1{
   font-family: "Montserrat";
  font-weight: 1000;
-  font-size: 3rem;
+  font-size: 3.5rem;
   line-height: 1.5;
   padding-bottom: 50px;
 }
@@ -14,7 +14,7 @@ h3{
   font-family: "Montserrat";
   font-weight:700;
   font-size: 1.5rem;
-  color: "Black";
+  color: Black;
 }
 
 a{
@@ -35,21 +35,22 @@ a{
 }
 
 .title-pic{
-  position: relative;
 transform: rotateZ(20deg);
 
 }
 .title-img{
-    width: 50%;
-    margin-left:110px;
-    margin-top: 0px
+  /* position: relative;
+
+    width: 55%;
+    margin: 0px 120px; */
 }
 
 .navbar-brand{
   font-family: "Ubuntu";
 }
 .download-btn{
-  margin: 5% 3% 5% 0 ;
+  margin: 5% 3% 15% 0 ;
+
 }
 
 
